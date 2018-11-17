@@ -1,1 +1,2 @@
 zuobiaozhoudetianxia is init
+select * from user
